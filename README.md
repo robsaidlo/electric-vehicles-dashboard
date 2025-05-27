@@ -20,7 +20,7 @@ streamlit run app.py
 ## 📁 Archivos importantes
 
 - `app.py` – La aplicación principal.
-- `vehicles_us.csv` – Los datos usados.
+- `Electric Vehicle Population Data.csv` – Los datos usados.
 - `notebooks/EDA.ipynb` – Análisis exploratorio de datos.
 
 ## ✨ Autor
